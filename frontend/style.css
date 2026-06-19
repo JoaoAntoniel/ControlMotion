@@ -522,9 +522,8 @@ a.nav-cta {
     text-align: center;
   }
 }
-  .stat-card:last-child {
-    border-right: none;
-  }
+.stat-card:last-child {
+  border-right: none;
 }
 .stat-card:last-child {
   border-bottom: none;
